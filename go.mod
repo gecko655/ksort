@@ -8,8 +8,8 @@ replace (
 )
 
 require (
-	github.com/spf13/cobra v1.1.3
-	helm.sh/helm/v3 v3.5.4
-	k8s.io/cli-runtime v0.21.0
-	k8s.io/klog/v2 v2.8.0
+	github.com/spf13/cobra v1.6.1
+	helm.sh/helm/v3 v3.11.1
+	k8s.io/cli-runtime v0.26.0
+	k8s.io/klog/v2 v2.80.1
 )
